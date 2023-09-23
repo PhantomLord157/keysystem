@@ -1,0 +1,10 @@
+if keys[1] == true then
+    print("key is true")
+end
+
+if uk == false then
+    print("Key Invalid. Acess Denied")
+else
+    print("Key Is Valid. Acess Granted")
+    S()
+end
